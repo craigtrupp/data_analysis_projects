@@ -1,13 +1,18 @@
-# DataCamp Certification Projects
+# Data Analysis, Visualization, Modeling Projects
+* The following markdown file will detail subsequent items within the repository as well as respective links for access to materials
 
-Following completion of learning tracks on the platform, different levels of certification are presented to users to apply learned data skills on a sample business problem. To date, I've completed the platform's two professional level certifications **Data Analyst Professional** and **Data Scientist Professional**. 
+---
 
 <br>
 
-## Certification Overview Process
-DataCamp Certification is an official recognition that you've achieved the required skill level as either a Data Scientist or Data Analyst. We measure your abilities through timed exams and a practical exam based on scenarios you're likely to find in the workplace. Our Certifications have been developed with the help of data experts representing a variety of industries, organizations, and roles.
+## **DataCamp Certification Projects**
 
----
+Following completion of learning tracks on the platform, different levels of certification are presented to users to apply learned data skills on a sample business problem. To date, I've completed the platform's two professional level certifications, **Data Analyst Professional** and **Data Scientist Professional**. 
+
+<br>
+
+### Certification Overview Process
+DataCamp Certification is an official recognition that you've achieved the required skill level as either a Data Scientist or Data Analyst. We measure your abilities through timed exams and a practical exam based on scenarios you're likely to find in the workplace. Our Certifications have been developed with the help of data experts representing a variety of industries, organizations, and roles.
 
 <br>
 
