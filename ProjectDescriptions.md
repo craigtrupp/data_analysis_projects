@@ -88,3 +88,7 @@ Please see below for a link to the submitted practical exams as well as the cert
     * `Practical Exam Submission - Notebook` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/Projects/Recipe_Classifier_DScienceProfessionalProject.ipynb
     * `Businnes Request - Practical Exam` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/Projects/RecipeClassifier_BusinessRequest.pdf
 
+---
+
+
+
