@@ -1,13 +1,10 @@
-# Data Analysis, Visualization, Modeling Projects
-* The following markdown file will detail subsequent items within the repository as well as respective links for access to materials
-
----
-
-<br>
-
 ## **DataCamp Certification Projects**
 
-Following completion of learning tracks on the platform, different levels of certification are presented to users to apply learned data skills on a sample business problem. To date, I've completed the platform's two professional level certifications, **Data Analyst Professional** and **Data Scientist Professional**. 
+Following completion of learning tracks on the platform, different levels of certification are presented to users to apply learned data skills on a sample business problem. To date, I've completed the platform's two professional level certifications, **Data Analyst Professional** and **Data Scientist Professional**. Please see further details below about the process including 
+* the timed assessment
+* practical exam
+* presentation
+    * along with the presentation material, the final step of each professional certificate is creating a recording with your presentation materials
 
 <br>
 
@@ -83,17 +80,17 @@ Please see below for a link to the submitted practical exams as well as the cert
 
 * Data Analysis Professional Items
     * `Certificate` : https://www.datacamp.com/certificate/DA0020911615127
-    * `Practical Exam Submission - Notebook` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/DAnalyst_Professional_ProductSales.ipynb
-    * `Presentation Slides` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/Projects/Pens%20%26%20Printers%20Customer%20Sales%20Analysis.pdf
+    * `Practical Exam Submission - Notebook` : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynbDAnalyst_Professional_ProductSales.ipynb
+    * `Presentation Slides` : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20%26%20Printers%20Customer%20Sales%20Analysis.pdf
 
 <br>
 
 * Data Science Professional Items
     * `Certificate` : https://www.datacamp.com/certificate/DS0025350472090
-    * `Practical Exam Submission - Notebook` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/Projects/Recipe_Classifier_DScienceProfessionalProject.ipynb
-    * `Businnes Request - Practical Exam` : https://github.com/craigtrupp/Online_Data_Python/blob/main/DataCamp/Project_Workspaces/Certificate_Projects/Projects/RecipeClassifier_BusinessRequest.pdf
+    * `Practical Exam Submission - Notebook` : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb
+    * `Businnes Request - Practical Exam` : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf
 
----
+
 
 
 
