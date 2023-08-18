@@ -1,3 +1,6 @@
+# 💹 Data Analysis & Modeling Repository Overview 💹
+Within this repository is a collection of materials used in completing capstone projects and accredited certification in Data Analysis. 
+
 ## Data Analysis, Visualization, Modeling & Dashboard Generation
 
 
