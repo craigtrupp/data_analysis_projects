@@ -45,6 +45,7 @@ Within this repository is a collection of materials used in completing capstone 
 
 
 ## **Project Details & Certificate Issuers** :building_construction:
+
 ### **IBM Data Analyst** 
 ![DAnalyst Cert](images/ibm_preview.png)
 IBM provides a comprehensive learning path available through Coursera with a culminating capstone project which will be linked to below. Throughout the program, the curriculum offers labs, tests, exercises and ultimately the capstone project to bring together skills and tools that represent the most up-to-date practical skills and tools that data analysts use in their daily roles. Such ares of focus included
@@ -63,7 +64,7 @@ IBM provides a comprehensive learning path available through Coursera with a cul
   - Section III : Data Analysis (Distribution of Data, Correlation Between Features, Outlier Detection and Removal)
     - [Section III ](/IBM_DataAnalysis_Capstone/Section_III)
   - Section IV : Data Visualization (Visualize Composition & Comparison of Data, Distribution of Data, Realtionship Between Features )
-    - [Section IV ](/IBM_DataAnalysis_Capstone/Section_IV)
+    - [Section IV ](/IBM_DataAnalysis_Capstone/SectionIV)
 * Cognos Dashboard 
   - `Project Highlights`
     * **Technology Usages** by survery respondents for Programming Languages, Platforms, WebFrames
@@ -92,43 +93,25 @@ DataCamp offers various levels of certification for users of the platform to hav
 
 `Coding Challenges`
 * Data Analyst Professional
-  - Coding Challenge : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataAnalysis_Cert/DAnalyst_Professional_ProductSales.ipynb
-  - Report : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataAnalysis_Cert/Pens%20%26%20Printers%20Customer%20Sales%20Analysis.pdf
+  - Coding Challenge : [Data Analyst Challenge](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
+  - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers&20Customer%20Sales%20Analysis.pdf)
+
 
 * Data Science Professional
-  - Coding Challenge : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataScience_Cert/Recipe_Classifier_DScienceProfessionalProject.ipynb
-  - Sample Business Request : https://github.com/craigtrupp/data_analysis_projects/blob/main/DataCamp_Certificate_Projects/DataScience_Cert/RecipeClassifier_BusinessRequest.pdf
+  - Coding Challenge : [Data Science Challenge](DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
+  - Sample Business Request : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
 
 
 The root folder containing details for each project submission and accompanying material can be found at 
-  - https://github.com/craigtrupp/data_analysis_projects/tree/main/DataCamp_Certificate_Projects
+  - [DataCamp Root Project Materials](/DataCamp_Certificate_Projects)
 
 For Further Details on DataCamp's Certification Process
 * https://app.datacamp.com/certification/resource-center/faq
 * https://www.datacamp.com/blog/certificates-or-certification-which-should-you-choose
 
-
-
 ---
 
-<br>
 
-### `Projects: Areas of Focus`
 
-The capstone and challenges completed referenced such areas as
 
-* Product Sales Analysis
-* Most Advantageous Sales Method Types
-* Revenue Distribution
-  - Revenue Distirubtion by Sales Methods
-  - Revenue Distribution Overall Time Intervals
-* Binning Customer Activities by Categorical Features
-* Location Proportional Sales Revenue & Distribution
-* Key Business Metric Identification
-* Predictive Website Traffic Analysis
-* Principal Component Analysis
-* Varying Model Accurary for Predictive Accuracy
-* Dashboard Generation
-* Data Wrangling
-* And more!
 
