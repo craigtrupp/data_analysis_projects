@@ -76,6 +76,7 @@ IBM provides a comprehensive learning path available through Coursera with a cul
     - Pie & Line Charts
     - Geographic Density Map
   - `Dashboard Link` : [IBM Cognos Project Dashboard](https://dataplatform.cloud.ibm.com/dashboards/61d7561d-fb2d-4820-acd8-f05119dffc19/view/7c18ea2c0f9539e976d3b1e407cc2d502930215ae7bbd20ad6847b490f607097f06b1092c82f1e0fd2430665f6ee125ec0)
+  - `Dashboard Link` : <a href="https://dataplatform.cloud.ibm.com/dashboards/61d7561d-fb2d-4820-acd8-f05119dffc19/view/7c18ea2c0f9539e976d3b1e407cc2d502930215ae7bbd20ad6847b490f607097f06b1092c82f1e0fd2430665f6ee125ec0" target="_blank">IBM Cognos Project Dashboard</a>
 * Presentation Slides with Data Generated from Previous Sections
   - [IBM Data Slides](/IBM_DataAnalysis_Capstone/Capston_Presentation_Slides.pdf)
 
@@ -94,7 +95,7 @@ DataCamp offers various levels of certification for users of the platform to hav
 `Coding Challenges`
 * Data Analyst Professional
   - Coding Challenge : [Data Analyst Challenge](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
-  - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers&20Customer%20Sales%20Analysis.pdf)
+  - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers%20Customer%20Sales%20Analysis.pdf)
 
 
 * Data Science Professional
@@ -102,8 +103,8 @@ DataCamp offers various levels of certification for users of the platform to hav
   - Sample Business Request : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
 
 
-The root folder containing details for each project submission and accompanying material can be found at 
-  - [DataCamp Root Project Materials](/DataCamp_Certificate_Projects)
+Please visit the area's individual markdown file containing details for each project submission and accompanying material can be found at 
+  - [DataCamp Root Project Materials](/DataCamp_Certificate_Projects/DCamp_Certification.md)
 
 For Further Details on DataCamp's Certification Process
 * https://app.datacamp.com/certification/resource-center/faq
