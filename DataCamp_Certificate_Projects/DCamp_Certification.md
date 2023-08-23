@@ -86,7 +86,7 @@ Please see below for a link to the submitted practical exams as well as the cert
 
 * **Data Science Professional Items** 🧑‍🔬
     * `Certificate` : [Data Science Certificate](https://www.datacamp.com/certificate/DS0025350472090)
-    * `Practical Exam Submission - Notebook` : [Data Science Workbook](DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
+    * `Practical Exam Submission - Notebook` : [Data Science Workbook](/DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
     * `Business Request - Practical Exam` : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
     * `Presentation Slides` : [Classifier Analyasis Presentation Materials](/DataCamp_Certificate_Projects/DataScience_Items/Tasty_Bytes_Presentation_Material.pdf)
 
