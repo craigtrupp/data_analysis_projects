@@ -73,22 +73,21 @@ To pass the practical exam, you'll need to
 
 <br>
 
-### **My Submissions & Certificate Links**
+### **My Submissions/Analysis & Certificate Links** 🥳
 Please see below for a link to the submitted practical exams as well as the certificates issued by the platform. Also within the available resources below is a pdf document containing one of the sample practical exam tasks (sample business request) as well as one of the completed presentations (powerpoint exported to pdf) highlighting the results of the analysis.
 
 
-* Data Analysis Professional Items
+* **Data Analysis Professional Items** 🧑‍💻
     * `Certificate` : [Data Analyst Certificate](https://www.datacamp.com/certificate/DA002091161512)
     * `Practical Exam Submission - Notebook` : [Data Analysis Workbook](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
     * `Presentation Slides` : [Analysis Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers%20Customer%20Sales%20Analysis.pdf)
 
 <br>
 
-* Data Science Professional Items
-
+* **Data Science Professional Items** 🧑‍🔬
     * `Certificate` : [Data Science Certificate](https://www.datacamp.com/certificate/DS0025350472090)
     * `Practical Exam Submission - Notebook` : [Data Science Workbook](DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
-    * `Businnes Request - Practical Exam` : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
+    * `Business Request - Practical Exam` : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
 
 
 

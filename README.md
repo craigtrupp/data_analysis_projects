@@ -48,6 +48,8 @@ Within this repository is a collection of materials used in completing capstone 
 
 ### **IBM Data Analyst** 
 ![DAnalyst Cert](images/ibm_preview.png)
+* [Verification Link - IBM/Coursera](https://coursera.org/verify/professional-cert/9AQ4N63SNDYE)
+
 IBM provides a comprehensive learning path available through Coursera with a culminating capstone project which will be linked to below. Throughout the program, the curriculum offers labs, tests, exercises and ultimately the capstone project to bring together skills and tools that represent the most up-to-date practical skills and tools that data analysts use in their daily roles. Such ares of focus included
 * Spreadsheets, Microsoft Excel
 * Python Programming, Pandas, Numpy, Matplotlib
@@ -97,11 +99,13 @@ DataCamp offers various levels of certification for users of the platform to hav
   - Coding Challenge : [Data Analyst Challenge](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
   - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers%20Customer%20Sales%20Analysis.pdf)
     - Within the presentation, the **Business Goals & Objectives** for the analysis work is detailed to add context for a mocked business task.
+  * `DataCamp Issued Professional Data Analyst Certificate` : [Data Analyst Certificate](https://www.datacamp.com/certificate/DA002091161512)
 
 
 * **Data Science Professional**
   - Coding Challenge : [Data Science Challenge](DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
   - Sample Business Request : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
+  * `DataCamp Issued Professional Data Scientist Certificate` : [Data Science Certificate](https://www.datacamp.com/certificate/DS0025350472090)
 
 
 Please visit the area's individual markdown file containing details for each project submission and accompanying materials for the platform's certification process.
