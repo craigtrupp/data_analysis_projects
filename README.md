@@ -99,8 +99,7 @@ DataCamp offers various levels of certification for users of the platform to hav
   - Coding Challenge : [Data Analyst Challenge](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
   - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers%20Customer%20Sales%20Analysis.pdf)
     - Within the presentation, the **Business Goals & Objectives** for the analysis work is detailed to add context for a mocked business task.
-  * `DataCamp Issued Professional Data Analyst Certificate` : [Data Analyst Certificate]
-  (https://www.datacamp.com/certificate/DA0020911615127)
+  * `DataCamp Issued Professional Data Analyst Certificate` : [Data Analyst Certificate](https://www.datacamp.com/certificate/DA0020911615127)
 
 
 * **Data Science Professional**
