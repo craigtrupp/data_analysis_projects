@@ -90,7 +90,7 @@ IBM provides a comprehensive learning path available through Coursera with a cul
 
 <br>
 
-#### `DataCamp`
+### **DataCamp**
 ![Dcamp](images/dcamp_preview.png)
 DataCamp offers various levels of certification for users of the platform to have their technical and reporting accumen put to the test to prove your skills are job-ready with **Associate** and **Professional** level certifications.  DataCamp's coding challenges are free form, where candidates are presented with certain data but it is up to them to come up with an appropriate solution. The goal of this task is to demonstrate that the individual has the ability to perform the tasks required of them as a data analyst or scientist without being guided towards the appropriate solution.
 
@@ -99,16 +99,18 @@ DataCamp offers various levels of certification for users of the platform to hav
   - Coding Challenge : [Data Analyst Challenge](/DataCamp_Certificate_Projects/DataAnalysis_Items/DAnalyst_Professional_ProductSales.ipynb)
   - Presentation / Powerpoint Material : [Data Analyst Presentation Material](/DataCamp_Certificate_Projects/DataAnalysis_Items/Pens%20&%20Printers%20Customer%20Sales%20Analysis.pdf)
     - Within the presentation, the **Business Goals & Objectives** for the analysis work is detailed to add context for a mocked business task.
-  * `DataCamp Issued Professional Data Analyst Certificate` : [Data Analyst Certificate](https://www.datacamp.com/certificate/DA002091161512)
+  * `DataCamp Issued Professional Data Analyst Certificate` : [Data Analyst Certificate]
+  (https://www.datacamp.com/certificate/DA0020911615127)
 
 
 * **Data Science Professional**
   - Coding Challenge : [Data Science Challenge](DataCamp_Certificate_Projects/DataScience_Items/Recipe_Classifier_DScienceProfessionalProject.ipynb)
   - Sample Business Request : [Data Science Business Request](/DataCamp_Certificate_Projects/DataScience_Items/RecipeClassifier_BusinessRequest.pdf)
+  - Presentation Material : [Data Science Presentation Material](/DataCamp_Certificate_Projects/DataScience_Items/Tasty_Bytes_Presentation_Material.pdf)
   * `DataCamp Issued Professional Data Scientist Certificate` : [Data Science Certificate](https://www.datacamp.com/certificate/DS0025350472090)
 
 
-Please visit the area's individual markdown file containing details for each project submission and accompanying materials for the platform's certification process.
+Please visit the area's individual markdown file which contains details on the Exams administered by DataCamp for their certification requirements.
   - [DataCamp Root Project Materials](/DataCamp_Certificate_Projects/DCamp_Certification.md)
 
 For Further Details on DataCamp's Certification Process
