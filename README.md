@@ -84,7 +84,7 @@ IBM provides a comprehensive learning path available through Coursera with a cul
 
 `Additional Section Learning Material`
 * Course details and logged materials highlighting the learning path for the course can be found as well 
-  - [Specialization Course Details](https://github.com/craigtrupp/Online_Data_Python/tree/main/Coursera/DataAnalyst_Cert)
+  - [Specialization Course Details](https://github.com/craigtrupp/Educational-Data-Python-Items/blob/main/Coursera/DataAnalyst_Cert/IBM_DA_Sect_Rev.md)
 
 ---
 
